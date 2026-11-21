@@ -1,2 +1,4 @@
 body{font:16px/1.6 -apple-system,system-ui,sans-serif;max-width:720px;margin:40px auto;padding:0 16px;color:#111;background:#fff}
 h1{font-size:28px}h2{font-size:19px;margin-top:28px}a{color:#0a58ca}
+.yt{display:flex;gap:12px;align-items:flex-start;border:1px solid #ddd;border-radius:10px;padding:12px 14px;margin:20px 0}
+.yt svg{flex:none;margin-top:2px}
